@@ -8,10 +8,24 @@ public class dbTestMain {
 
        MemberService memberService = new MemberService();
        Member member;
+       String[] commands = {"printInfo","register","update","withdraw"};
 
         Scanner sc = new Scanner(System.in);
         System.out.print("원하시는 기능을 선택해주세요 : ");
         choice = sc.next(); // 명령 입력
+
+        boolean isExist = false;
+
+        for (int i = 0; i < commands.length ; i++) {
+             if(choice.equals(commands[i])){
+                 isExist = true;
+             }
+        }
+
+        if(!isExist) {
+         System.out.println("올바르지 않은 명령입니다 !!");
+         System.exit(0);
+        }
 
         if(choice.equals("register")) {
          // 회원 가입 메소드 실행

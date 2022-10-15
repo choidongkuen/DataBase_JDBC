@@ -47,9 +47,9 @@ public class MemberService {
 
             }
 
-
         } catch (SQLException e) {
             throw new RuntimeException(e);
+
         } finally {
             try {
                 if (rs != null && !rs.isClosed())
