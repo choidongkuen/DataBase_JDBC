@@ -2,6 +2,8 @@ package crud;
 
 import java.util.Scanner;
 
+// dbTestMain 애서 객체를 생성해서, MemberService 클래스 실!!
+
 public class dbTestMain {
     public static String choice;
     public static void main(String[] args){
