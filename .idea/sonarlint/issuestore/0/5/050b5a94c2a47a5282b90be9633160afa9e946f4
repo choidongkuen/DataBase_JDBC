@@ -1,0 +1,32 @@
+
+n
+java:S1192$"SDefine a constant instead of duplicating this literal "ì•„ì´ë”” ì…ë ¥: " 3 times.(Â”É„úÿÿÿÿ
+k
+java:S1192""PDefine a constant instead of duplicating this literal "íƒ€ì… ì…ë ¥: " 4 times.(€»™¦üÿÿÿÿ
+h
+java:S1104"RMake choice a static final constant or non-public and provide accessors if needed.(ÅâË
+B
+java:S1444",Make this "public static choice" field final(ÅâË
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñ²Õ×
+H
+java:S2440"-Remove this instantiation of "MemberService".(Şû¯îÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(šÍ•ßıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶âÁÁıÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(€»™¦üÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Â”É„úÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(—äĞŸıÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(áºµô
+K
+java:S22091"5Change this instance-reference to a static reference.(¶ï˜¡
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(€»™¦üÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(Â”É„úÿÿÿÿ
+P
+java:S2209>"5Change this instance-reference to a static reference.(ÄÆÌ•ÿÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(€»™¦üÿÿÿÿ
+J
+java:S2209I"5Change this instance-reference to a static reference.(½Îÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(€»™¦üÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(Â”É„úÿÿÿÿ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(¯ÈƒØ
+K
+java:S2209["5Change this instance-reference to a static reference.(Ìˆ
