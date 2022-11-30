@@ -1,0 +1,47 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112~"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112£"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112Ã"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112ç"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112„"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+m
+java:S1192"XDefine a constant instead of duplicating this literal "org.mariadb.jdbc.Driver" 4 times.(áğöX
+d
+java:S1192"IDefine a constant instead of duplicating this literal "zerobase" 4 times.(ú‡²üÿÿÿÿ
+}
+java:S1192	"bDefine a constant instead of duplicating this literal "jdbc:mariadb://localhost:3306/db1" 4 times.(œô‹·ùÿÿÿÿ
+d
+java:S2095ñ"HUse try-with-resources or close this "Connection" in a "finally" clause.(½µ¥êúÿÿÿÿ
+f
+java:S2095÷"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÉøÙ´
+c
+java:S2095f"HUse try-with-resources or close this "Connection" in a "finally" clause.(½µ¥êúÿÿÿÿ
+f
+java:S2095´"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÉøÙ´
+d
+java:S2095­"HUse try-with-resources or close this "Connection" in a "finally" clause.(½µ¥êúÿÿÿÿ
+e
+java:S2095$"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÉøÙ´
+c
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(½µ¥êúÿÿÿÿ
+e
+java:S2095m"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÉøÙ´
+[
+java:S2583Æ"DChange this condition so that it does not always evaluate to "false"(ÁÆª¿
+[
+java:S2583‚"DChange this condition so that it does not always evaluate to "false"(ÁÆª¿
+[
+java:S2583‡"DChange this condition so that it does not always evaluate to "false"(ÁÆª¿
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ßñ‰¦
+N	java:S106."9Replace this use of System.out or System.err by a logger.(‰ÀÑØ
+V	java:S125`"<This block of commented-out lines of code should be removed.(’©Ğãıÿÿÿÿ
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(¨Ñ•úÿÿÿÿ
+N	java:S106z"9Replace this use of System.out or System.err by a logger.( ÆóŒ
+T	java:S106½"9Replace this use of System.out or System.err by a logger.(àµë‹üÿÿÿÿ
+O	java:S106¿"9Replace this use of System.out or System.err by a logger.(Ù¾ÅÁ
+T	java:S106ş"9Replace this use of System.out or System.err by a logger.(Ó¶…ˆüÿÿÿÿ
+N	java:S106€"9Replace this use of System.out or System.err by a logger.(òºŒa
